@@ -119,7 +119,7 @@ Deauthenticating clients on selected network, Ctrl+C to terminate.
 ```
 
 ### Legal Disclaimer
-This script is intended **only for ethical use** in penetration testing and network security auditing. **Do not use it** to attack networks without explicit permission from the network owner. Unauthorized use may be illegal.
+This script is intended **only for ethical use** in penetration testing and network security auditing. **Do not use it** to attack networks without explicit permission from the network owner. Unauthorized use is illegal. I am **NOT** responsible for **ANY** misuse.
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
