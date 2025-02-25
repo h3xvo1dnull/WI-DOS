@@ -26,7 +26,7 @@ Before running the script, ensure that:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/h3xvo1dnull/WI-DOS.git
+   git clone https://github.com/h3xvo1dnull/WI-DOS/
    cd wifi-deauth-script
    ```
 
