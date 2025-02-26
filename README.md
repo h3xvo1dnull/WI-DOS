@@ -27,7 +27,7 @@ Before running the script, ensure that:
 
    ```bash
    git clone https://github.com/h3xvo1dnull/WI-DOS/
-   cd wifi-deauth-script
+   cd WI-DOS
    ```
 
 2. Install the necessary dependencies:
